@@ -3,7 +3,7 @@ this is a simple game implemented in java
 the name of the game is cows and bulls
 
 ----
-#game play
+# game play
 this is a two player game 
 one player chooses a number and says the number of digits in his number
 lets say:
