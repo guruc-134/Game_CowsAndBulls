@@ -1,4 +1,4 @@
-package com.Games;
+
 /*
 in this game (two player ) the player one enters a number and the player two plays this game to guess
 the number
