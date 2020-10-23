@@ -11,13 +11,13 @@ number= 1254 (is not revealed)
 digits =4 (is revealed)
 the second player starts guessing the number 
 
-first try
-first player: number is 3424?
-second player : 1 cow 1 bull!
-here cow represent the digit which is correctly guessed but its present in a different place 
-like 2 here
-bull represents a digit which is correctly guessed along with the position 
-like 4 here
+first try\
+first player: number is 3424?\
+second player : 1 cow 1 bull!\
+here cow represent the digit which is correctly guessed but its present in a different place \
+2 here\
+bull represents a digit which is correctly guessed along with the position \
+4 here\
 
 in this way when the first player goes on guessing until he gets 
 4 (digits) number of bulls then his number of steps to guess the answer correctly are noted 
