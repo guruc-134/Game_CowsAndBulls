@@ -18,7 +18,6 @@ here cow represent the digit which is correctly guessed but its present in a dif
 2 here\
 bull represents a digit which is correctly guessed along with the position \
 4 here\
-
 in this way when the first player goes on guessing until he gets 
 4 (digits) number of bulls then his number of steps to guess the answer correctly are noted 
 
